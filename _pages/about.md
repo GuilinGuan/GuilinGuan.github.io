@@ -16,15 +16,15 @@ I am currently a Ph.D. student in Software Engineering at Dalian University of T
 
 Publications
 ======
+- **MedShift-SFDA: A Difficulty-graded Benchmark for Source-Free Domain Adaptation in Medical Image Segmentation**  <br>
+**Guilin Guan**, Wei Zhou, Jing Wang, Yuan Gao, Wei Cui  <br>
+International Conference on Neural Information Processing (**ICONIP**), 2026  <br>
+[Project page]()
+
 - **MASG-SAM: Enhancing Few-Shot Medical Image Segmentation With Multi-Scale Attention and Semantic Guidance**  <br>
 Wei Zhou (M.S. Advisor), **Guilin Guan (co-first author)**, Mengjia Xu, Yuan Gao, Pengju Si, Qifeng Yan  <br>
 IEEE Journal of Biomedical and Health Informatics (**JBHI**), 2025 <br>
 [Project page](https://ieeexplore.ieee.org/abstract/document/11006907)
-
-- **BiASAM: Bidirectional-attention guided segment anything model for very few-shot medical image segmentation**  <br>
-Wei Zhou (M.S. Advisor), **Guilin Guan**, Wei Cui, Yugen Yi  <br>
-IEEE Signal Processing Letters (**SPL**), 2024<br>
-[Project page](https://ieeexplore.ieee.org/abstract/document/10787063)
 
 - **AdaptSAM: Adaptive SAM for Cross-Domain Few-Shot Medical Image Segmentation**  <br>
 Wei Zhou (M.S. Advisor), **Guilin Guan**, Qifeng Yan, Yitian Zhao  <br>
@@ -36,10 +36,10 @@ Wei Zhou (M.S. Advisor), **Guilin Guan**, Yugen Yi, Wei Cui, Yixin Chen  <br>
 Biomedical Signal Processing and Control (**BSPC**), 2025 <br> 
 [Project page](https://www.sciencedirect.com/science/article/pii/S1746809425005646)
 
-- **MedShift-SFDA: A Difficulty-graded Benchmark for Source-Free Domain Adaptation in Medical Image Segmentation**  <br>
-**Guilin Guan**, Wei Zhou, Jing Wang, Yuan Gao, Wei Cui  <br>
-International Conference on Neural Information Processing (**ICONIP**), 2026  <br>
-[Project page]()
+- **BiASAM: Bidirectional-attention guided segment anything model for very few-shot medical image segmentation**  <br>
+Wei Zhou (M.S. Advisor), **Guilin Guan**, Wei Cui, Yugen Yi  <br>
+IEEE Signal Processing Letters (**SPL**), 2024<br>
+[Project page](https://ieeexplore.ieee.org/abstract/document/10787063)
 
 Awards
 ======
