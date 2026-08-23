@@ -16,7 +16,7 @@ About Me
 ======
 I am currently a Ph.D. student in Software Engineering at Dalian University of Technology, with an expected graduation in 2030, under the supervision of [Prof. Xin Fan](https://faculty.dlut.edu.cn/Xin_Fan/zh_CN/index.htm). I received my M.S. degree in Computer Science and Technology from Shenyang Aerospace University in 2026, under the supervision of [Prof. Wei Zhou](https://yjs.sau.edu.cn/info/1027/1164.htm). My research interests focus on computer vision and medical image processing, particularly medical image segmentation and registration. I have published or had papers accepted at journals and conferences including JBHI, BSPC, SPL, BIBM, and ICONIP. I also serve as a reviewer for several international journals, including Acta Materialia, Array, BSPC, EAAI, ESWA, SPL, NN, Neurocomputing, and MBEC. <br>
 
-My research interest is computer vision, medical image analysis, currently with medical image segmentation and foundation model.<strong><em style="color: #d32f2f;">I welcome motivated undergraduate and graduate students to join me in exploring the frontiers of computer vision and medical image processing.</em></strong> 
+My research interest is computer vision, medical image analysis, currently with medical image segmentation and foundation model. <strong><em style="color: #d32f2f;">I welcome motivated undergraduate and graduate students to join me in exploring the frontiers of computer vision and medical image processing.</em></strong> 
 
 Publications
 ======
