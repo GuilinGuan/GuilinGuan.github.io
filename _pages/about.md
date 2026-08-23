@@ -8,7 +8,7 @@ redirect_from:
 
 个人简介
 ======
-我目前为大连理工大学软件工程博士在读(预计2030毕业)，导师为[樊鑫教授](https://faculty.dlut.edu.cn/Xin_Fan/zh_CN/index.htm)；2026年获沈阳航空航天大学计算机科学与技术专业硕士学位，导师为[周唯教授](https://yjs.sau.edu.cn/info/1027/1164.htm)。研究方向聚焦计算机视觉与医学图像处理，主要包括医学图像分割与配准。已在JBHI, BSPC, SPL, BIBM, ICONIP等期刊/会议发表或录用论文。同时担任 Acta Materialia, Array, BSPC, EAAI, ESWA, SPL, NN, Neurocomputing, and MBEC 等期刊审稿人。<br>
+我目前为大连理工大学软件工程博士在读（预计2030毕业），导师为[樊鑫教授](https://faculty.dlut.edu.cn/Xin_Fan/zh_CN/index.htm)；2026年获沈阳航空航天大学计算机科学与技术专业硕士学位，导师为[周唯教授](https://yjs.sau.edu.cn/info/1027/1164.htm)。研究方向聚焦计算机视觉与医学图像处理，主要包括医学图像分割与配准。已在JBHI, BSPC, SPL, BIBM, ICONIP等期刊/会议发表或录用论文。同时担任 Acta Materialia, Array, BSPC, EAAI, ESWA, SPL, NN, Neurocomputing, and MBEC 等期刊审稿人。<br>
 
 我的研究兴趣是计算机视觉、医学图像分析，目前的研究方向是医学图像分割和基础模型。<strong><em style="color: #d32f2f;">诚邀本科生、研究生共赴探索之旅。</em></strong> 
 
