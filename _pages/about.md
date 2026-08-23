@@ -22,29 +22,29 @@ My research interest is computer vision, medical image analysis, currently with 
 
 Publications
 ======
-- **MASG-SAM: Enhancing Few-Shot Medical Image Segmentation With Multi-Scale Attention and Semantic Guidance**  
-Wei Zhou (M.S. Advisor), **Guilin Guan (co-first author)**, Mengjia Xu, Yuan Gao, Pengju Si, Qifeng Yan  
-IEEE Journal of Biomedical and Health Informatics (**JBHI**), 2025  
+- **MASG-SAM: Enhancing Few-Shot Medical Image Segmentation With Multi-Scale Attention and Semantic Guidance**  <br>
+Wei Zhou (M.S. Advisor), **Guilin Guan (co-first author)**, Mengjia Xu, Yuan Gao, Pengju Si, Qifeng Yan  <br>
+IEEE Journal of Biomedical and Health Informatics (**JBHI**), 2025<br>  
 [Project page](https://ieeexplore.ieee.org/abstract/document/11006907)
 
-- **BiASAM: Bidirectional-attention guided segment anything model for very few-shot medical image segmentation**  
-Wei Zhou (M.S. Advisor), **Guilin Guan**, Wei Cui, Yugen Yi  
-IEEE Signal Processing Letters (**SPL**), 2024
+- **BiASAM: Bidirectional-attention guided segment anything model for very few-shot medical image segmentation**  <br>
+Wei Zhou (M.S. Advisor), **Guilin Guan**, Wei Cui, Yugen Yi  <br>
+IEEE Signal Processing Letters (**SPL**), 2024<br>
 [Project page](https://ieeexplore.ieee.org/abstract/document/10787063)
 
-- **AdaptSAM: Adaptive SAM for Cross-Domain Few-Shot Medical Image Segmentation**  
-Wei Zhou (M.S. Advisor), **Guilin Guan**, Qifeng Yan, Yitian Zhao  
-IEEE International Conference on Bioinformatics and Biomedicine (**BIBM**), 2025  
+- **AdaptSAM: Adaptive SAM for Cross-Domain Few-Shot Medical Image Segmentation**  <br>
+Wei Zhou (M.S. Advisor), **Guilin Guan**, Qifeng Yan, Yitian Zhao  <br>
+IEEE International Conference on Bioinformatics and Biomedicine (**BIBM**), 2025  <br>
 [Project page](https://ieeexplore.ieee.org/abstract/document/11356021)
 
-- **Progressive pseudo-labels enhancement for source-free domain adaptation medical image segmentation**  
-Wei Zhou (M.S. Advisor), **Guilin Guan**, Yugen Yi, Wei Cui, Yixin Chen  
-Biomedical Signal Processing and Control (**BSPC**), 2025  
+- **Progressive pseudo-labels enhancement for source-free domain adaptation medical image segmentation**  <br>
+Wei Zhou (M.S. Advisor), **Guilin Guan**, Yugen Yi, Wei Cui, Yixin Chen  <br>
+Biomedical Signal Processing and Control (**BSPC**), 2025 <br> 
 [Project page](https://www.sciencedirect.com/science/article/pii/S1746809425005646)
 
-- **MedShift-SFDA: A Difficulty-graded Benchmark for Source-Free Domain Adaptation in Medical Image Segmentation**  
-**Guilin Guan**, Wei Zhou, Jing Wang, Yuan Gao, Wei Cui  
-International Conference on Neural Information Processing (**ICONIP**), 2026  
+- **MedShift-SFDA: A Difficulty-graded Benchmark for Source-Free Domain Adaptation in Medical Image Segmentation**  <br>
+**Guilin Guan**, Wei Zhou, Jing Wang, Yuan Gao, Wei Cui  <br>
+International Conference on Neural Information Processing (**ICONIP**), 2026  <br>
 [Project page]()
 
 Awards
