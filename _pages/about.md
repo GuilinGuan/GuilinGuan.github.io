@@ -18,7 +18,7 @@ Publications
 ======
 - **MASG-SAM: Enhancing Few-Shot Medical Image Segmentation With Multi-Scale Attention and Semantic Guidance**  <br>
 Wei Zhou (M.S. Advisor), **Guilin Guan (co-first author)**, Mengjia Xu, Yuan Gao, Pengju Si, Qifeng Yan  <br>
-IEEE Journal of Biomedical and Health Informatics (**JBHI**), 2025
+IEEE Journal of Biomedical and Health Informatics (**JBHI**), 2025 <br>
 [Project page](https://ieeexplore.ieee.org/abstract/document/11006907)
 
 - **BiASAM: Bidirectional-attention guided segment anything model for very few-shot medical image segmentation**  <br>
