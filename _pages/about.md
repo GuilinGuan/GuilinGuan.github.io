@@ -17,7 +17,7 @@ I am currently a Ph.D. student in Software Engineering at Dalian University of T
 Publications
 ======
 - **MedShift-SFDA: A Difficulty-graded Benchmark for Source-Free Domain Adaptation in Medical Image Segmentation**  <br>
-<strong style="color: var(--global-link-color);">Guilin Guan</strong>, Wei Zhou (M.S. Advisor), Jing Wang, Yuan Gao, Wei Cui  <br>
+<strong style="color: #03A9F4;">Guilin Guan</strong>, Wei Zhou (M.S. Advisor), Jing Wang, Yuan Gao, Wei Cui  <br>
 International Conference on Neural Information Processing (**ICONIP**), 2026  <br>
 [Project page]()
 
