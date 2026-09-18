@@ -45,7 +45,5 @@ Awards
 ======
 - National Scholarship for Graduate Students (2024–2025)
 - Outstanding Graduate of Liaoning Province (2024–2025)
-- Outstanding Master's Thesis Development Fund (2024–2025)
-- Outstanding Graduate Student of Shenyang Aerospace University (2024–2025)
 - Peer Reviewer for multiple international journals published by Elsevier, IEEE, and Springer, with 100+ completed manuscript reviews (2024–Present)
 
