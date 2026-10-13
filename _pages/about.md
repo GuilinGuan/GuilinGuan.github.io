@@ -18,18 +18,18 @@ Publications
 ======
 - **MedShift-SFDA: A Difficulty-graded Benchmark for Source-Free Domain Adaptation in Medical Image Segmentation**  <br>
 <strong style="color: #03A9F4;">Guilin Guan</strong>, Wei Zhou (M.S. Advisor), Jing Wang, Yuan Gao, Wei Cui  <br>
-International Conference on Neural Information Processing (**ICONIP**), 2026 (Accepted)  <br>
+International Conference on Neural Information Processing (**ICONIP**), 2026 (Accepted) (Oral) <br>
 [Project page]()
+
+- **AdaptSAM: Adaptive SAM for Cross-Domain Few-Shot Medical Image Segmentation**  <br>
+Wei Zhou (M.S. Advisor), <strong style="color: #03A9F4;">Guilin Guan</strong>, Qifeng Yan, Yitian Zhao  <br>
+IEEE International Conference on Bioinformatics and Biomedicine (**BIBM**), 2025 (Accepted) (Oral)  <br>
+[Project page](https://ieeexplore.ieee.org/abstract/document/11356021)
 
 - **MASG-SAM: Enhancing Few-Shot Medical Image Segmentation With Multi-Scale Attention and Semantic Guidance**  <br>
 Wei Zhou (M.S. Advisor), <strong style="color: #03A9F4;">Guilin Guan</strong>, Mengjia Xu, Yuan Gao, Pengju Si, Qifeng Yan  <br>
 IEEE Journal of Biomedical and Health Informatics (**JBHI**), 2025 (Accepted) <br>
 [Project page](https://ieeexplore.ieee.org/abstract/document/11006907)
-
-- **AdaptSAM: Adaptive SAM for Cross-Domain Few-Shot Medical Image Segmentation**  <br>
-Wei Zhou (M.S. Advisor), <strong style="color: #03A9F4;">Guilin Guan</strong>, Qifeng Yan, Yitian Zhao  <br>
-IEEE International Conference on Bioinformatics and Biomedicine (**BIBM**), 2025 (Accepted)  <br>
-[Project page](https://ieeexplore.ieee.org/abstract/document/11356021)
 
 - **Progressive pseudo-labels enhancement for source-free domain adaptation medical image segmentation**  <br>
 Wei Zhou (M.S. Advisor), <strong style="color: #03A9F4;">Guilin Guan</strong>, Yugen Yi, Wei Cui, Yixin Chen  <br>
